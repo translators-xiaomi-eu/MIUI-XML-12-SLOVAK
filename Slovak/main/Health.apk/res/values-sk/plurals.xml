@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>

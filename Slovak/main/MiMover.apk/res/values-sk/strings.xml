@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="account_or_password_incorrect">Nesprávne ID konta alebo heslo</string>
     <string name="antispam">Zoznam blokovaných</string>
@@ -314,7 +314,7 @@ Uvoľnite aspoň %s."</string>
     <string name="task_canceled_all_local">Zrušené</string>
     <string name="task_pending">Čaká sa…</string>
     <string name="text_timeout_retry">Nepodarilo sa pripojiť. Skúste to znovu.</string>
-    <string name="time_concentrator" />
+    <string name="time_concentrator"/>
     <string name="time_spent">Čas: <g id="time">%1$s</g></string>
     <string name="title_request_package_stats_perm">Vyžadujú sa povolenia</string>
     <string name="trans_detail_item_app_data_skip_data">Údaje apikácie nie je možné preniesť</string>

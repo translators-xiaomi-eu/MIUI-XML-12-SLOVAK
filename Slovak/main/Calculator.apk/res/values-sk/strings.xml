@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Prejsť na plochu</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -19,8 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
     <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
     <string name="abc_toolbar_collapse_description">Zbaliť</string>
-    <string name="search_menu_title">Vyhľadávanie</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="age_label_add_to_calendar">Pridať do Kalendára</string>
     <string name="age_label_dob">Dátum narodenia</string>
     <string name="age_label_hours">Hodiny</string>
@@ -78,8 +76,8 @@
     <string name="currency_update_support">Výmenné kurzy poskytuje portál Webull.</string>
     <string name="currency_update_time_format">Výmenné kurzy poskytuje Webull (%s)</string>
     <string name="currency_update_updating">Aktualizácia kurzov…</string>
-    <string name="current_rate_remind_commercial" />
-    <string name="current_rate_remind_fund" />
+    <string name="current_rate_remind_commercial"/>
+    <string name="current_rate_remind_fund"/>
     <string name="dateformat">dd.MM.yyyy</string>
     <string name="day">deň</string>
     <string name="degDesc">Uhol</string>
@@ -116,7 +114,7 @@
     <string name="extra_deduction_title">Dodatočné zrážky</string>
     <string name="factorialDesc">faktoriál</string>
     <string name="float_window_guide_text">Ťuknite sem pre minimalizovanie kalkulačky</string>
-    <string name="fund" />
+    <string name="fund"/>
     <string name="fund_loan">Úverový fond</string>
     <string name="further_education">Ďalšie vzdelávanie</string>
     <string name="global_network_confirm_content">Funkcia prepočet kurzu mien vyžaduje pre správne fungovanie pripojenie na internet.</string>
@@ -140,10 +138,11 @@
     <string name="hint_annual_rate">Zadajte ročný úrok</string>
     <string name="hint_enter_amount">Zadajte čiastku</string>
     <string name="hint_floatwindow_alpha_guide_text">Ťuknite sem pre upravenie priehľadnosti</string>
+    <string name="history_delete_confirmation">Vymazať históriu?</string>
     <string name="home_loan">Hypotekárne úroky</string>
     <string name="home_title_calculator">Kalkulačka</string>
     <string name="house_rent">Prenájom</string>
-    <string name="income_type" />
+    <string name="income_type"/>
     <string name="install">Inštalovať</string>
     <string name="install_scanner_to_continued_use">Skener je odinštalovaný. Inštalovať znovu?</string>
     <string name="interest_rate_hint">Zadajte úrokovú sadzbu</string>
@@ -171,11 +170,15 @@
     <string name="item_title_vel_conversion">Rýchlosť</string>
     <string name="item_title_volume_conversion">Objem</string>
     <string name="item_title_weight_conversion">Hmotnosť</string>
+    <string name="label_about">O aplikácií</string>
+    <string name="label_clear_history">Vymazať všetko</string>
     <string name="label_date_difference">Rozdiel</string>
     <string name="label_days">Dni</string>
+    <string name="label_delete">Vymazať</string>
     <string name="label_emi">EMI</string>
     <string name="label_first_repayment">Prvá splátka</string>
     <string name="label_from_date">Od</string>
+    <string name="label_history">História</string>
     <string name="label_interest">Úrok</string>
     <string name="label_loan_tenure">Dĺžka splácania</string>
     <string name="label_months">Mesiace</string>
@@ -224,7 +227,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="medical_treatment">Lekárske ošetrenie</string>
     <string name="menuDesc">menu</string>
     <string name="minusDesc">mínus</string>
-    <string name="month" />
+    <string name="month"/>
     <string name="mortgage_amount">Celkovo (×10K)</string>
     <string name="mortgage_average_repayment_first_month">Prvá splátka</string>
     <string name="mortgage_average_repayment_monthly">Mesačná splátka</string>
@@ -280,7 +283,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="none">Žiadne</string>
     <string name="not_supported_due_to_language">Táto funkcia je dostupná len v čínskom jazyku</string>
     <string name="ok">OK</string>
-    <string name="percent" />
+    <string name="percent"/>
     <string name="percentDesc">percento</string>
     <string name="piDesc">pí</string>
     <string name="plusDesc">plus</string>
@@ -318,19 +321,21 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="rightParenDesc">pravá zátvorka</string>
     <string name="scannerDesc">Skener</string>
     <string name="scanner_had_been_uninstalled">Skener je odinštalovaný</string>
+    <string name="search_menu_title">Vyhľadávanie</string>
     <string name="secondFunctionDesc">Prepnúť na druhú funkciu</string>
     <string name="settingsDesc">nastavenia</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sínus</string>
-    <string name="social_security" />
+    <string name="social_security"/>
     <string name="sqrtDesc">druhá odmocnina</string>
-    <string name="start_calculate" />
+    <string name="start_calculate"/>
     <string name="statistic_label_balance">Zostatok</string>
     <string name="statistic_label_interest">Úrok</string>
     <string name="statistic_label_month">Mesiac</string>
     <string name="statistic_label_monthly">Mesačne</string>
     <string name="statistic_label_yearly">Ročne</string>
     <string name="statistic_year">Rok %d</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="support_elder">Podpora pre seniorov</string>
     <string name="switchDesc">Prepnúť</string>
     <string name="tab_title_calculator">Kalkulačka</string>
@@ -362,7 +367,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="tax_detail_rate">Daňová sadzba</string>
     <string name="tax_detail_take_off">Odpočet dane</string>
     <string name="tax_detail_tax_payed">Zaplatená čiastka</string>
-    <string name="tax_edittext_hint" />
+    <string name="tax_edittext_hint"/>
     <string name="tax_endowment">Dôchodkový fond</string>
     <string name="tax_fixed_salary_hint">Zadajte váš príjem pred zdanením</string>
     <string name="tax_income_annual_bonus_list">Ročné bonusy</string>
@@ -392,12 +397,12 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="tax_thershold_native_new">%s (nové)</string>
     <string name="tax_thershold_native_new_description">Dane sa budú vypočítavať podľa nového zákona s platnosťou od 1. októbra 2018</string>
     <string name="tax_threshold">Nezdaniteľný limit</string>
-    <string name="tax_title_primary" />
-    <string name="tax_title_secondary" />
+    <string name="tax_title_primary"/>
+    <string name="tax_title_secondary"/>
     <string name="tax_total_insurance_provident_fund">Poistenie a fond bývania</string>
     <string name="tax_unemployment">Nezamestnanosť</string>
     <string name="tax_update_time_format">Dáta poskytuje HeXun (%s)</string>
-    <string name="times" />
+    <string name="times"/>
     <string name="unKnow_error">Neznáma chyba</string>
     <string name="unit_cm">Centimetre</string>
     <string name="unit_data_display_area_acre">Aker</string>
@@ -685,7 +690,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="unit_meter">Metre</string>
     <string name="unit_myriads">×10K</string>
     <string name="unit_pound">Libry</string>
-    <string name="unit_times" />
+    <string name="unit_times"/>
     <string name="unit_year">R</string>
     <string name="unit_year_format">Rok %s</string>
     <string name="unit_yuan">CNY</string>
@@ -725,10 +730,5 @@ Veľkosť: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Predstavujeme verziu %1$s
 Veľkosť delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aktualizácia aplikácie %1$s!</string>
-    <string name="year" />
-    <string name="label_about">O aplikácií</string>
-    <string name="label_clear_history">Vymazať všetko</string>
-    <string name="label_delete">Vymazať</string>
-    <string name="label_history">História</string>
-    <string name="history_delete_confirmation">Vymazať históriu?</string>
+    <string name="year"/>
 </resources>

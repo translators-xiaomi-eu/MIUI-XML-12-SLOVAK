@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animácia je vypnutá</item>
@@ -95,12 +95,6 @@
         <item>, aktívne</item>
         <item>, aktívne (médiá)</item>
         <item>, aktívne (telefón)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (predvolené)</item>

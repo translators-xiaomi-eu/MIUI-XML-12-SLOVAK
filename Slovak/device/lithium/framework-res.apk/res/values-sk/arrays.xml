@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="emailAddressTypes">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <array name="fingerprint_acquired_vendor"/>
+    <array name="fingerprint_error_vendor"/>
+    <string-array name="imAddressTypes">
         <item>Domov</item>
         <item>Práca</item>
         <item>Iné</item>
@@ -37,14 +45,6 @@
         <item>Iné</item>
         <item>Vlastné</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
-    <string-array name="imAddressTypes">
-        <item>Domov</item>
-        <item>Práca</item>
-        <item>Iné</item>
-        <item>Vlastné</item>
-    </string-array>
+    <array name="wfcOperatorErrorAlertMessages"/>
+    <array name="wfcOperatorErrorNotificationMessages"/>
 </resources>
