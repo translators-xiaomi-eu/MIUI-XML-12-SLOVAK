@@ -106,7 +106,6 @@
     <string name="other">Ostatné nastavenia</string>
     <string name="pc_activity_title">Optimalizovať batériu</string>
     <string name="pm_lable_name">About root access</string>
-    <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
     <string name="privacy_declare_dialog_title">Podmienky používania</string>
     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
     <string name="release_memory">Vymazaná cache</string>

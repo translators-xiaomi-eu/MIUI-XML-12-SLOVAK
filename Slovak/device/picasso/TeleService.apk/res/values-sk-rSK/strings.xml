@@ -87,7 +87,6 @@
     <string name="call_barring_confirm_pwd">Potvrďte heslo</string>
     <string name="call_barring_deactivate_all">Deaktivovať všetko</string>
     <string name="call_barring_deactivate_all_description">Deaktivovať všetky nastavenia blokovania hovorov</string>
-    <string name="call_barring_deactivate_all_no_password">Deaktivovať všetky nastavenia blokovania hovorov?</string>
     <string name="call_barring_deactivate_success">Blokovanie hovorov bolo deaktivované</string>
     <string name="call_barring_new_pwd">Nové heslo</string>
     <string name="call_barring_old_pwd">Staré heslo</string>
@@ -214,7 +213,6 @@
     <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Preferovaný režim siete: TDSCDMA/GSM/WCDMA</string>
     <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferovaný režim siete: TDSCDMA/WCDMA</string>
     <string name="private_dns_mode_off">Vypnuté</string>
-    <string name="private_dns_mode_opportunistic">Automaticky</string>
     <string name="private_dns_mode_provider">Súkromný názov hostiteľa poskytovateľa DNS</string>
     <string name="private_dns_mode_provider_failure">Nepodarilo sa pripojiť</string>
     <string name="private_dns_mode_provider_hostname_hint">Zadajte názov hostiteľa poskytovateľa DNS</string>
@@ -270,7 +268,6 @@
     <string name="wifi_calling_settings_title">Volanie cez Wi‑Fi</string>
     <string name="wifi_cant_connect">Nedá sa pripojiť</string>
     <string name="wifi_cant_connect_to_ap">K sieti %1$s sa nedá pripojiť</string>
-    <string name="wifi_check_password_try_again">Skontrolujte heslo a skúste to znova</string>
     <string name="wifi_connected_mac_randomization">Randomizácia pripojených adries MAC</string>
     <string name="wifi_connected_mac_randomization_summary">Randomizovať adresu MAC pri pripájaní k sieťam Wi-Fi</string>
     <string name="wifi_metered_label">S meraním dát</string>

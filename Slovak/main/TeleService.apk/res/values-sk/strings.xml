@@ -75,8 +75,6 @@
     <string name="audio_mode_earpiece">Slúchadlo</string>
     <string name="audio_mode_speaker">Reproduktor</string>
     <string name="audio_mode_wired_headset">Hands-free</string>
-    <string name="auth_username_summary">Užívateľské meno pre overenie</string>
-    <string name="auth_username_title">Užívateľské meno</string>
     <string name="auto_answer_delay_entries_delay_10s">10s</string>
     <string name="auto_answer_delay_entries_delay_3s">3s</string>
     <string name="auto_answer_delay_entries_delay_5s">5s</string>
@@ -115,7 +113,6 @@
     <string name="autoip_setting">Auto IP nastavenia</string>
     <string name="autoip_summary">Pridať IP predvoľbu pre zahraničné čísla</string>
     <string name="autoip_summary_more">, %d celkom</string>
-    <string name="autoip_support_local_numbers">Vždy použiť IP predvoľbu</string>
     <string name="available_via_passpoint">K dispozícii prostredníctvom %1$s</string>
     <string name="back">Späť</string>
     <string name="badPin">Pôvodný kód PIN bol zadaný nesprávne. Skúste to znova.</string>
@@ -201,8 +198,6 @@ Vzorkovacia frekvencia"</string>
     <string name="bluetooth_select_avrcp_version_string">Verzia rozhrania Bluetooth AVRCP</string>
     <string name="bt_hci_snoop_log">Povoliť denník Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
-    <string name="bugreport_in_power">Skratka hlásenia chyby</string>
-    <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
     <string name="button_convert_fbe">Vymazať a konvertovať…</string>
     <string name="callEnded_pulled">Hovor bol presmerovaný na iné zariadenie.</string>
     <string name="callFailed_cb_enabled">Ak je zapnuté blokovanie hovorov, nie je možné uskutočňovať odchádzajúce hovory.</string>
@@ -367,7 +362,6 @@ Vzorkovacia frekvencia"</string>
     <string name="change_default_data_card">Predvolená SIM pre dáta</string>
     <string name="change_default_data_card_summary">Vyzerá to, že ste zmenili SIM karty. Nastaviť túto SIM kartu ako predvolenú pre mobilné dáta?</string>
     <string name="change_num">Aktualizovať</string>
-    <string name="change_password">Zmeniť heslo blokovania hovorov</string>
     <string name="change_pin">Zmeniť kód PIN</string>
     <string name="change_pin2">Zmena kódu PIN2</string>
     <string name="change_pin_cancel_label">Zrušiť</string>
@@ -402,7 +396,6 @@ Vzorkovacia frekvencia"</string>
     <string name="confirm_change_default_data">Zmeniť</string>
     <string name="confirm_enable_oem_unlock_text">UPOZORNENIE: Dokiaľ bude toto nastavenie zapnuté, funkcie ochrany zariadenia nebudú na tomto zariadení fungovať.</string>
     <string name="confirm_enable_oem_unlock_title">Povoliť odblokovanie OEM?</string>
-    <string name="confirm_password_label">Potvrdiť nové heslo</string>
     <string name="confirm_pin2_label">Potvrdiť nový PIN2</string>
     <string name="confirm_pin_label">Potvrdiť nový PIN</string>
     <string name="connect_disconnect_vibrate_none">Nevibrovať</string>
@@ -469,9 +462,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="default_call_type">CSVoice</string>
     <string name="default_notification_description">Predvolený zvuk (%1$s)</string>
     <string name="default_preference_summary">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_domain_address">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_password">&lt;Nenastavené&gt;</string>
-    <string name="default_preference_summary_username">&lt;Nenastavené&gt;</string>
     <string name="default_sim_setting">Predvolená SIM ako:</string>
     <string name="delete">Vymazať</string>
     <string name="deleteAllSimEntries">Vymazať všetky kontakty na SIM</string>
@@ -514,7 +504,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="dialog_call_ordinary_telephone">Bežný hovor (%ds)</string>
     <string name="dialog_cancel">Zrušiť</string>
     <string name="dialog_network_priority_title">Priorita</string>
-    <string name="dialog_report">Nahlásiť</string>
     <string name="dialpad_0_letters">+</string>
     <string name="dialpad_0_number">0</string>
     <string name="dialpad_1_letters"/>
@@ -573,9 +562,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="disabled_by_admin">Zakázané správcom</string>
     <string name="disabled_by_admin_summary_text">Ovládané správcom</string>
     <string name="disconnect_data_confirm">Mobilné dáta budú dočasne odpojené. Pokračovať?</string>
-    <string name="display_name_summary">Rovnaké ako meno</string>
-    <string name="display_name_title">Zobrazované meno</string>
-    <string name="domain_address_title">server</string>
     <string name="doneButton">Hotovo</string>
     <string name="dtmf_tone_enable_title">Zvuk dotyku kláves</string>
     <string name="dtmf_tone_entries_long">Dlhé</string>
@@ -627,8 +613,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vyžaduje LTE pripojenie pre oba SIM sloty. Prepnúť na Dual LTE?</string>
     <string name="enable_fdn">Funkcia PTČ je ZAPNUTÁ</string>
     <string name="enable_fdn_ok">Vypnúť funkciu PTČ</string>
-    <string name="enable_freeform_support">Povoliť okná s voľným tvarom</string>
-    <string name="enable_freeform_support_summary">Povolenie podpory pre experimentálne okná s voľným tvarom.</string>
     <string name="enable_in_progress">Čakajte prosím...</string>
     <string name="enable_opengl_traces_title">Trasovanie OpenGL</string>
     <string name="enable_pin">Povoliť alebo zakázať kód PIN karty SIM</string>
@@ -648,7 +632,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="enhanced_4g_lte_mode_title_variant">Rozšírené volanie</string>
     <string name="enterName">Vložte Meno:</string>
     <string name="enterNumber">Vložte číslo telefónu:</string>
-    <string name="enter_callbarring_password">Zadajte heslo blokovania hovorov (4 čísla)</string>
     <string name="enter_input" formatted="false">USSD správa musí byť medzi %d a %d miestami.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">Kód PIN karty SIM:</string>
@@ -658,14 +641,8 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="error_type_account_inner">Chyba</string>
     <string name="error_updating_title">Chyba nastavenia hovorov</string>
     <string name="exception_error">Chyba siete alebo karty SIM.</string>
-    <string name="exportAllcontatsFailed">Export všetkých kontaktov na SIM zlyhal !!!</string>
-    <string name="exportAllcontatsNoContacts">Žiadne kontakty sa nenašli!!!</string>
-    <string name="exportAllcontatsSuccess">Export všetkých kontaktov na SIM dokončený</string>
-    <string name="exportContactScreen">Exportovať kontakty na SIM</string>
-    <string name="exportContacts">Exportujem kontakty na SIM kartu...</string>
     <string name="external_source_trusted">Povolené</string>
     <string name="external_source_untrusted">Nie je povolené</string>
-    <string name="failedToImportSingleContactMsg">Kontakt sa nepodarilo importovať</string>
     <string name="failed_to_open_app_settings_toast">Nastavenia aplikácie %1$s sa nepodarilo otvoriť</string>
     <string name="fake_phone_activity_infoText_text">Prichádzajúce telefónne číslo</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
@@ -731,10 +708,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="ime_security_warning">Pri tejto metóde vstupu sa môže zhromažďovať zadávaný text vrátane osobných údajov, ako sú heslá alebo čísla kreditných kariet. Táto metóda je poskytovaná aplikáciou %1$s. Chcete použiť túto metódu vstupu?</string>
     <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
     <string name="immediately_destroy_activities_summary">Zničiť každú aktivitu, hneď ako ju používateľ ukončí</string>
-    <string name="importAllSimEntries">Importovať všetko</string>
-    <string name="importSimEntry">Importovať</string>
-    <string name="importToFDNfromContacts">Import z kontaktov</string>
-    <string name="importingSimContacts">Importovanie kontaktov z karty SIM</string>
     <string name="ims_accounts_title">IMS Account</string>
     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
     <string name="ims_edit_title">IMS account details</string>
@@ -786,7 +759,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="invalidPin">Zadajte kód PIN s dĺžkou 4 až 8 číslic.</string>
     <string name="invalidPin2">Zadajte kód PIN2 s dĺžkou 4 až 8 číslic.</string>
     <string name="invalidPuk2">Zadajte 8-miestny kód PUK2.</string>
-    <string name="invalid_password">Zadajte heslo (4 čísla).</string>
     <string name="invalid_pin">Nesprávny PIN, prosím zadajte PIN2, ktorý má od 4 do 8 čísel.</string>
     <string name="invalid_pin2">Nesprávny PIN2, prosím zadajte PIN2, ktorý má od 4 do 8 čísel.</string>
     <string name="invalid_puk">Nesprávny PUK, prosím zadajte PUK, ktorý má od 4 do 8 čísel.</string>
@@ -844,12 +816,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="livetalk_provider">Poskytuje %1$s</string>
     <string name="load_networks_progress">Vyhľadávam...</string>
     <string name="loading_order">Načítavanie...</string>
-    <string name="local_backup_password_summary_change">Klepnutím zmeníte alebo odstránite heslo pre úplné zálohy do počítača</string>
-    <string name="local_backup_password_summary_none">Úplné zálohy na počítači nie sú momentálne chránené</string>
-    <string name="local_backup_password_title">Heslo pre zálohy v počítači</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Nové heslo a potvrdenie sa nezhodujú</string>
-    <string name="local_backup_password_toast_success">Nové heslo pre zálohy je nastavené</string>
-    <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohy zlyhalo</string>
     <string name="local_disable">Miestne správy zakázané</string>
     <string name="local_enable">Miestne správy povolené</string>
     <string name="local_weather_disable">Miestne počasie zakázané</string>
@@ -894,7 +860,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="mhh_enable">Doktori, zdravie a nemocnice povolené</string>
     <string name="mismatchPin">Zadané kódy PIN sa nezhodujú. Skúste to znova.</string>
     <string name="mismatchPin2">Zadané kódy PIN2 sa nezhodujú. Skúste to znova.</string>
-    <string name="mismatch_password">Heslo ktoré ste zadali sa nezhoduje. Skúste to opäť.</string>
     <string name="mismatch_pin">Zadaný nesprávny PIN. Opakujte pokus.</string>
     <string name="mismatch_pin2">Zadaný nesprávny PIN. Opakujte pokus.</string>
     <string name="missed_call_notify_five_times">5 krát</string>
@@ -956,8 +921,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_pref_title_voice">Volanie</string>
     <string name="msim_set_icc_card_error">Chyba ICC karty</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">Nie je možné nastaviť počas hovoru</string>
-    <string name="msim_set_sub_not_supported_slot_id_error">Chyba SIM karty, skúste to znova neskôr</string>
     <string name="msim_setting_categery_title">Informácie o SIM karte</string>
     <string name="msim_setting_default_data">Dáta</string>
     <string name="msim_setting_default_voice">Hovory</string>
@@ -1016,7 +979,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="networks_title">Sieťoví operátori</string>
     <string name="newPin2Label">Nový kód PIN2</string>
     <string name="newPinLabel">Nový kód PIN</string>
-    <string name="new_password_label">Nové heslo (4 čísla)</string>
     <string name="new_pin2_label">Nový PIN2</string>
     <string name="new_pin_label">Nový PIN</string>
     <string name="new_sim_detected">Zistená nová SIM karta:</string>
@@ -1035,13 +997,11 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="no_vt_allowed">To place a video call, turn off the TTY mode</string>
     <string name="no_wifi_available">Pre volanie cez internet musíte byť pripojený pomocou Wi-Fi</string>
     <string name="no_wifi_available_title">Wi-Fi pripojenie nedostupné</string>
-    <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
     <string name="not_activate_sim_card_content_title">Telefón nebol aktivovaný</string>
     <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
     <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
     <string name="not_change_default_data">Nemeniť</string>
     <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
-    <string name="not_supported_number_content_title">Nepodporované</string>
     <string name="not_voice_capable">Hlasový hovor nepodporovaný</string>
     <string name="notification_action_end_call">Ukončiť</string>
     <string name="notification_dialing">Vytáčanie</string>
@@ -1075,7 +1035,6 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="ok">OK</string>
     <string name="oldPin2Label">Pôvodný kód PIN2</string>
     <string name="oldPinLabel">Pôvodný kód PIN</string>
-    <string name="old_password_label">Staré heslo (4 čísla)</string>
     <string name="old_pin2_label">Starý PIN2</string>
     <string name="old_pin_label">Starý PIN</string>
     <string name="onHold">Podržaný hovor</string>
@@ -1120,8 +1079,6 @@ Môže to trvať aj 5 minút."</string>
     <string name="other_settings_category">Ostatné</string>
     <string name="overlay_display_devices_title">Simulovať sekundárne obrazovky</string>
     <string name="overseas_roaming_setting">Medzinárodný roaming</string>
-    <string name="password_changed">Heslo je úspešne zmenené</string>
-    <string name="password_title">Heslo</string>
     <string name="pause_prompt_no">Nie</string>
     <string name="pause_prompt_str">"Odosielanie tónov
 "</string>
@@ -1150,7 +1107,6 @@ Môže to trvať aj 5 minút."</string>
     <string name="phone_in_ecm_notification_title">Režim núdzového spätného hovoru</string>
     <string name="phone_number_hint_text">Telefónne číslo.</string>
     <string name="phone_numbers">Vložte čísla telefónu</string>
-    <string name="phone_report_title">Čítať informácie o hovore</string>
     <string name="pick_outgoing_call_phone_type">Uskutočniť hovor</string>
     <string name="pick_outgoing_sip_phone">Účet hovoru cez internet:</string>
     <string name="picture_color_mode">Farebný režim obrázka</string>
@@ -1184,8 +1140,6 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="pocket_mode_title">Zabrániť náhodnému použitiu</string>
     <string name="pointer_location">Umiestnenie kurzora</string>
     <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-    <string name="port_title">Číslo Portu</string>
-    <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
     <string name="power_discharging_duration">%1$s – približný zostávajúci čas: %2$s</string>
     <string name="power_discharging_duration_short">%1$s – zostávajúci čas: %2$s</string>
     <string name="power_remaining_charging_duration_only">Zostávajúci čas do úplného nabitia: %1$s</string>
@@ -1317,9 +1271,6 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="remove_ims_account">Odobrať účet</string>
     <string name="remove_sip_account">Vymazať účet</string>
     <string name="removing_account">Vymazávam účet...</string>
-    <string name="report_method_entries_item1">Len ak sú pripojené slúchadlá</string>
-    <string name="report_method_entries_item2">Vždy</string>
-    <string name="report_method_entries_item3">Vypnúť</string>
     <string name="requesting_corporate_unlock">Requesting SIM corporate unlock…</string>
     <string name="requesting_nw_subset_unlock">Requesting SIM network subset unlock…</string>
     <string name="requesting_puk_unlock">Vyžadovanie odblokovanie PUK...</string>
@@ -1406,9 +1357,6 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="select_webview_provider_toast_text">Táto voľba už nie je platná. Skúste to znova.</string>
     <string name="sendSms">Odoslať SMS</string>
     <string name="send_button">Odoslať</string>
-    <string name="send_keepalive_title">Odosielať keep-alive</string>
-    <string name="set_primary_summary">Used for outbound calls</string>
-    <string name="set_primary_title">Nastaviť ako primárny účet</string>
     <string name="set_smsc_address_error">Chyba pri ukladaní čísla SMS centra</string>
     <string name="set_smsc_address_timeout">Vypršal časový limit pre nastavenie SMS čísla operátora, prosím skúste to neskôr.</string>
     <string name="set_smsc_address_title">Nastaviť číslo SMS centra</string>
@@ -1452,13 +1400,11 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="sim_unlock_success">SIM SIM unlock successful.</string>
     <string name="sim_useless">SIM nedostupná</string>
     <string name="simulate_color_space">Simulácia far. priestoru</string>
-    <string name="singleContactImportedMsg">Kontakt bol importovaný</string>
     <string name="sip_account_disable">Účet nie je aktívny.</string>
     <string name="sip_account_list">Účty volania cez internet</string>
     <string name="sip_accounts">Účty volania cez internet (SIP)</string>
     <string name="sip_accounts_title">Účty</string>
     <string name="sip_add_account_tip_text">Prosím vložte účet SIP pre používanie internetových volaní</string>
-    <string name="sip_always_send_keepalive">Vždy odosielať</string>
     <string name="sip_call_options_entry_1">pre všetky hovory</string>
     <string name="sip_call_options_entry_2">Len pre internetové hovory</string>
     <string name="sip_call_options_entry_3">Vždy sa opýtať</string>
@@ -1485,7 +1431,6 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="smsc_dialog_message">Uistite sa, že zadané SMSC číslo je správne, inak nebudete môcť odosielať a prijímať SMS správy.</string>
     <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
     <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
-    <string name="sports_news_settings">Športové správy</string>
     <string name="status_hint_label_incoming_wifi_call">Hovor cez Wi-Fi od:</string>
     <string name="status_hint_label_wifi_call">Hovor cez Wi-Fi</string>
     <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
@@ -1590,7 +1535,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="title_convert_fbe">Konvertovanie na šifrovanie založené na súboroch</string>
     <string name="track_frame_time">Profil vykresľovania GPU</string>
     <string name="transition_animation_scale_title">Mierka animácie premeny</string>
-    <string name="transport_title">Typ transportu</string>
     <string name="tts_default_lang_summary">Nastavenia jazyka hlasu pre hovorený text</string>
     <string name="tts_default_lang_title">Jazyk</string>
     <string name="tts_default_pitch_summary">Určuje zvuk syntetizovaného hlasu</string>
@@ -1615,7 +1559,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="tts_settings">Nastavenia prevodu textu na reč</string>
     <string name="tts_settings_title">Prevod textu na reč</string>
     <string name="tts_status_checking">Kontroluje sa...</string>
-    <string name="tts_status_not_supported">Jazyk %1$s nie je podporovaný</string>
     <string name="tts_status_ok">Jazyk %1$s je plne podporovaný</string>
     <string name="tts_status_requires_network">Jazyk %1$s vyžaduje pripojenie k sieti</string>
     <string name="tts_status_title">Stav predvoleného jazyka</string>
@@ -1646,7 +1589,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="usb_audio_disable_routing_summary">Vypnúť automatické smerovanie do audio periférií USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Použiť jazyky systému</string>
     <string name="user_guest">Hosť</string>
-    <string name="username_title">Meno užívateľa</string>
     <string name="ussdRunning">Kód USSD je spustený...</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
@@ -1672,8 +1614,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="voice_number_setting_primary_user_only">Nastavenia hlasovej schránky môže zmeniť iba primárny používateľ.</string>
     <string name="voice_privacy">Ochrana súkromia hlasovej pošty</string>
     <string name="voice_privacy_summary">Povoliť režim vylepšenej ochrany súkromia</string>
-    <string name="voice_report_incoming_call">Volanie</string>
-    <string name="voice_report_unknown_num">Neznáme číslo</string>
     <string name="voicemail">Hlasová schránka</string>
     <string name="voicemail_abbreviated">HS:</string>
     <string name="voicemail_change_pin_dialog_title">Zmena kódu PIN</string>
@@ -1696,14 +1636,11 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="volte_provision_notification_activate">Aktivovať</string>
     <string name="volte_provision_text">Detekcia VoLTE na vašej SIM nie je podporovaná, chcete ho aktivovať?</string>
     <string name="volte_provision_title">Povoliť VoLTE</string>
-    <string name="volte_switch_not_support_summary">VoLTE hovory nie sú podporované na dátovej SIM karte.</string>
-    <string name="volte_switch_not_support_summary2">VoLTE hovory nie sú podporované vaším operátorom.</string>
     <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
     <string name="volte_switch_summary2">Overte si, že váš operátor podporuje VoLTE predtým ako ho povolíte. Môže to ovplyvniť bežné hovory.</string>
     <string name="volte_switch_title">Povoliť VoLTE</string>
     <string name="volte_tips_when_turn_on">VoLTE služby sú dostupné len v pokrytí LTE.</string>
     <string name="vpn_settings_not_available">Nastavenia vzdialeného pripojenia VPN nie sú dostupné pre tohto používateľa</string>
-    <string name="vvm_unsupported_message_format">Nepodporovaný typ správy, zavolajte na číslo %s a vypočujte si správu.</string>
     <string name="wait_for_debugger">Čakať na ladiaci nástroj</string>
     <string name="wait_for_debugger_summary">Aplikácia čaká na pripojenie ladiaceho nástroja</string>
     <string name="wait_prompt_str">"Odoslať tieto tóny?
@@ -1731,7 +1668,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="wifi_disabled_by_recommendation_provider">Nepripojené z dôvodu siete nízkej kvality</string>
     <string name="wifi_disabled_generic">Zakázané</string>
     <string name="wifi_disabled_network_failure">Zlyhanie konfigurácie adresy IP</string>
-    <string name="wifi_disabled_password_failure">Problém s overením totožnosti</string>
     <string name="wifi_disabled_wifi_failure">Zlyhanie pripojenia Wi-Fi</string>
     <string name="wifi_display_certification">Certifikácia bezdrôtového zobrazenia</string>
     <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového zobrazenia</string>
@@ -1747,7 +1683,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="wificall_switch_title">Vykonať hovory cez Wi-Fi</string>
     <string name="wild_prompt_str">Replace wild character with</string>
     <string name="window_animation_scale_title">Mierka animácie okna</string>
-    <string name="wrong_password">Nesprávne heslo</string>
     <string name="xdivert_button">X-Divert Nastavenia</string>
     <string name="xdivert_setting">X-Divert Nastavenia</string>
     <string name="xdivert_summary">CFNRc Nastavenia</string>

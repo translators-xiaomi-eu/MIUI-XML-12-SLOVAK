@@ -39,9 +39,6 @@ Vaše dáta nebudú vymazané."</string>
     <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
     <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
     <string name="menu_title_recovery">Reštartovať do TWRP recovery</string>
-    <string name="message_checkbox">Nezobrazovať oznámenia od miuios.cz</string>
-    <string name="message_checkbox_device">Viac nezobrazovať</string>
-    <string name="message_title">Oznámenie!</string>
     <string name="new_version">Je dostupná nová verzia MIUI!</string>
     <string name="no_info">Informácie nie sú dostupné</string>
     <string name="no_mirror">Server je momentálne nedostupný, skúste to neskôr...</string>

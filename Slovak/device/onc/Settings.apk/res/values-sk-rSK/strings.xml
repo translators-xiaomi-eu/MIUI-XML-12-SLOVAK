@@ -1267,7 +1267,6 @@ Upozornenie: Pomocou odtlačku prsta nemôžete odomknúť toto zariadenie. Ďal
     <string name="share_remote_bugreport_dialog_message_finished">Správca IT si vyžiadal hlásenie chyby, aby mohol vyriešiť problém na tomto zariadení. Aplikácie a dáta môžu byť zdieľané.</string>
     <string name="share_remote_bugreport_dialog_title">Chcete zdieľať hlásenie chyby?</string>
     <string name="sharing_remote_bugreport_dialog_message">Toto hlásenie chyby sa zdieľa s vaším správcom IT. Ak potrebujete ďalšie podrobnosti, kontaktujte ho.</string>
-    <string name="short_summary_font_size">Zväčšite alebo zmenšite text</string>
     <string name="show_all_apps">Zobraziť úplné využitie zariadenia</string>
     <string name="show_first_crash_dialog">Vždy zobrazovať dialógové okno zlyhania</string>
     <string name="show_first_crash_dialog_summary">Zobraziť dialógové okno pri každom zlyhaní aplikácie</string>

@@ -2010,7 +2010,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="menu_text_optimize_manage_1">Zrýchliť</string>
     <string name="menu_text_power_manager">Správa výkonu</string>
     <string name="menu_text_power_percent">%s</string>
-    <string name="menu_text_power_percent_title_default">Batéria</string>
     <string name="menu_wh_remove">Odobrať</string>
     <string name="menu_white">Výnimka</string>
     <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>

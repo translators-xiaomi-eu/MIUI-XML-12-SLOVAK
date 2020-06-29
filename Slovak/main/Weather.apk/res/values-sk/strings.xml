@@ -62,9 +62,6 @@
     <string name="data_provided_by"/>
     <string name="edit_alert_city_title">Spravovať varovania</string>
     <string name="edit_city">Upraviť</string>
-    <string name="empty_view_net_loading">Aktualizácia...</string>
-    <string name="empty_view_net_unavailable">Nebolo možné pripojiť sa k sieti</string>
-    <string name="empty_view_refresh">Skúsiť znova</string>
     <string name="eu_region_version_first_start_network_msg">Používaním tejto aplikácie súhlasíte, že Xiaomi bude používať vaše osobné dáta, spracovávať ich a zhromažďovať, vašu polohu a iné dáta špecifikované v Podmienkach používania. Tlačidlom \"Súhlasím\", súhlasíte s Xiaomi %1$s a %2$s.</string>
     <string name="feedback">Nahlásiť nesprávne informácie o počasí</string>
     <string name="feedback_heavy_rain">Silný dážď</string>
@@ -196,7 +193,6 @@ Zadajte vaše mesto manuálne"</string>
     <string name="realtime_humidity_title">Vlhkosť</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Vietor</string>
-    <string name="refresh_empty_data">Nebolo možné načítať dáta. Skúste to znova neskôr.</string>
     <string name="refresh_fail">Nebolo možné pripojiť sa k sieti</string>
     <string name="reminder_from_xiaomi_weather_app">Upozornenie z aplikácie Počasie</string>
     <string name="request_cta_connect_net">Povoľte tejto aplikácií pripojenie na internet a požadované povolenia.</string>

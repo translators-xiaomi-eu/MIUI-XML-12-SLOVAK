@@ -109,8 +109,6 @@
     <string name="buy_a_new_phone">Navýšenie úložiska</string>
     <string name="buy_immediately">Buy</string>
     <string name="buy_traffic_pack">Buy more data</string>
-    <string name="cache_title_empty_folder">Prázdna zložka (%d)</string>
-    <string name="cache_title_empty_folder2">Prázdna zložka</string>
     <string name="cache_title_system_cache">Cache systému</string>
     <string name="cached_garbage">Cache</string>
     <string name="call_log">História hovorov</string>
@@ -162,17 +160,12 @@
     <string name="deep_clean_uninstall_completed_tips">Odinštalované</string>
     <string name="deepclean_1_k_clean">Čistenie jedným tlačidlom</string>
     <string name="deepclean_apk_content">vymazať APK alebo nepotrebné aplikácie</string>
-    <string name="deepclean_apk_summary_empty">Všetko vyzerá byť v poriadku, žiadne APK na vymazanie</string>
     <string name="deepclean_apk_version_error">Neznáme</string>
     <string name="deepclean_app_content">Odinštalovať aplikácie ktoré ste nepoužili viac ako 30 dní</string>
-    <string name="deepclean_app_summary_empty">Všetko vyzerá byť v poriadku, žiadne apl. na vymazanie</string>
     <string name="deepclean_cache_content">Vyčistiť dáta vytvorené aplikáciami</string>
     <string name="deepclean_cache_header_left">Cache: %d</string>
-    <string name="deepclean_cache_summary_empty">Všetko vyzerá byť v poriadku, žiadne dáta na vymazanie</string>
-    <string name="deepclean_empty">Všetko vyzerá byť OK</string>
     <string name="deepclean_install_info_desc2">Odinštalujte apl. pre uvoľnenie miesta</string>
     <string name="deepclean_large_content">Vymazať súbory väčšie ako 10MB</string>
-    <string name="deepclean_large_summary_empty">Všetko vyzerá byť v poriadku, žiadne súbory na vymazanie</string>
     <string name="deepclean_list_item_from_app">Obchod</string>
     <string name="deepclean_list_item_from_dcim_thumbnails">Náhľady</string>
     <string name="deepclean_list_item_from_download">Stiahnuté</string>
@@ -182,10 +175,8 @@
     <string name="deepclean_list_item_from_sdcard">SD Karta</string>
     <string name="deepclean_normal_item_desc1">Bežné čistenie</string>
     <string name="deepclean_normal_item_desc2">Je to bezpečné vyčistiť</string>
-    <string name="deepclean_normal_item_summary_empty">Všetko vyzerá byť v poriadku</string>
     <string name="deepclean_normal_title">Auto. čistenie</string>
     <string name="deepclean_similar_ignore">Ignorovať</string>
-    <string name="deepclean_similar_summary_empty">Všetko vyzerá byť v poriadku, žiadne fotografie na vymazanie</string>
     <string name="deepclean_size_summary_less">Nie je dostatok miesta</string>
     <string name="deepclean_size_summary_more">Je dostatok voľného miesta</string>
     <string name="deepclean_size_summary_normal">Dostupné miesto na úložisku</string>
@@ -193,7 +184,6 @@
     <string name="deepclean_title_large_file">Vymazať veľké súbory</string>
     <string name="deepclean_title_uninstall_apps">Nevyužívané aplikácie</string>
     <string name="deepclean_video_content">Vymazať prehrané alebo nepotrebné videá</string>
-    <string name="deepclean_video_summary_empty">Všetko vyzerá byť OK</string>
     <string name="default_cache_type">Súbory</string>
     <string name="delete_confirm">Vymazať</string>
     <string name="delete_confirm_msg">Vymazať všetky súbory?</string>
@@ -220,18 +210,6 @@
     <string name="dialog_title_uninstall_apps">Odinštalovať</string>
     <string name="download">Stiahnuť</string>
     <string name="downloading">Sťahovanie...</string>
-    <string name="empty_content_no_ignore_image">Prázdne</string>
-    <string name="empty_content_no_privacy">Prázdne</string>
-    <string name="empty_content_no_similar_image">Žiadne podobné fotografie</string>
-    <string name="empty_title_ad">Žiadne reklamné súbory</string>
-    <string name="empty_title_apk">Žiadne inštalačné .apk súbory</string>
-    <string name="empty_title_garbage_cache">Prázdne</string>
-    <string name="empty_title_garbage_white_list">Prázdne</string>
-    <string name="empty_title_installed_apps">Prázdne</string>
-    <string name="empty_title_large_files">Prázdne</string>
-    <string name="empty_title_photos">Žiadne fotografie</string>
-    <string name="empty_title_residual">Žiadne súbory</string>
-    <string name="empty_title_video">Žiadne videá na vymazanie</string>
     <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Inicializácia...</string>
     <string name="engine_tm">Tencent</string>
@@ -346,7 +324,6 @@
     <string name="hints_garbage_cleanup_result_risk">Vyčistiť interné úložisko</string>
     <string name="hints_garbage_cleanup_result_safe">Všetko je OK</string>
     <string name="hints_garbage_handle_item_content">Položiek: %1$d, %2$s</string>
-    <string name="hints_garbage_handle_item_empty_content">Prázdne</string>
     <string name="hints_install_apps_else">Použité %s</string>
     <string name="hints_install_apps_interval">pred %d dňami</string>
     <string name="hints_install_apps_new">nepoužité</string>
@@ -523,7 +500,6 @@
     <string name="privacy_appdata_chrome_history_des">História webstránok</string>
     <string name="privacy_browser_desc">Vyhľadávané položky</string>
     <string name="privacy_cache_desc">Účet, heslá, história, nastavenia a viac...</string>
-    <string name="privacy_cache_empty">Žiadne súkromné dáta</string>
     <string name="privacy_cache_scaning">Kontrola...</string>
     <string name="privacy_cache_title">Osobné informácie</string>
     <string name="privacy_clipboard_desc">Obsah schránky</string>
@@ -547,7 +523,6 @@
     <string name="seton_immediately">Zapnúť</string>
     <string name="share">Zdieľať</string>
     <string name="similar_image_desc">Vymazať podobné fotografie z galérie</string>
-    <string name="similar_image_empty">Žiadne podobné fotografie</string>
     <string name="similar_image_scaning">Kontrola...</string>
     <string name="similar_image_title">Vymazať podobné fotografie</string>
     <string name="sms">SMS/MMS</string>
@@ -629,7 +604,6 @@
     <string name="toast_backup_uninstall_success">Záloha a odinštalácia dokončená</string>
     <string name="toast_delete_select_image_succeed">Vymazať</string>
     <string name="toast_garbage_cleanup_success">Vyčistenie dokončené</string>
-    <string name="toast_garbage_list_empty">Nie je potrebné čistenie!</string>
     <string name="toast_must_select_before_restore">Vyberte fotografie pre obnovenie</string>
     <string name="toast_network_eror">Chyba siete!</string>
     <string name="toast_network_switch">Táto aplikácia sa môže pripojiť k internetu</string>
@@ -655,7 +629,6 @@
     <string name="whatsapp_clean_exit_confirm_msg">Zastaviť kontrolu</string>
     <string name="whatsapp_clean_exit_confirm_ok">OK</string>
     <string name="whatsapp_clean_exit_confirm_title">Zastaviť kontrolu WhatsApp</string>
-    <string name="whatsapp_content_empty">Žiadne súbory na vymazanie</string>
     <string name="whatsapp_delete_confirm_cancel">Zrušiť</string>
     <string name="whatsapp_delete_confirm_message">Vymazať?</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>

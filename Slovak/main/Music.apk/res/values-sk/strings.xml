@@ -14,15 +14,11 @@
     <string name="September">September</string>
     <string name="Updated_at">"Aktualizované: "</string>
     <string name="abc_action_bar_home_description">Prejsť na plochu</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Prejsť hore</string>
     <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
     <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
-    <string name="abc_capital_off">VYP.</string>
-    <string name="abc_capital_on">ZAP.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">odstrániť</string>
@@ -151,7 +147,6 @@
     <string name="auto_update_tip">Systémové aplikácie môžete aktualizovať pomocou mobilných dát. Môže to generovať dodatočné poplatky.</string>
     <string name="auto_upgrade">Autom. aktualizácia</string>
     <string name="avail_services">Dostupné služby</string>
-    <string name="available_playlist_name_format">Nový playlist %d</string>
     <string name="avoid_to_use_traffic_summary">Upozorniť na spotrebu dát</string>
     <string name="avoid_to_use_traffic_title">Použiť len Wi-Fi pre stream</string>
     <string name="back">Naspäť</string>
@@ -222,7 +217,6 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">Pokračovať ako %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Potvrdiť prihlásenie</string>
     <string name="com_facebook_tooltip_default">Máte to pod kontrolou: vy určujete, ktoré informácie chcete zdieľať s aplikáciami.</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Povoliť</string>
     <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
     <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
@@ -261,7 +255,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="data_usage_warning">Využitie dát</string>
     <string name="data_usage_warning_summary">Použitie mobilných dát pre stream hudby vo vysokej kvalite môže navýšiť vaše poplatky.</string>
     <string name="data_use_desc">Zmluvné podmienky</string>
-    <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">Zmazať</string>
     <string name="delete_download">Vymazať</string>
     <string name="delete_downloads_records">Vymazať sťahovanie</string>
@@ -453,7 +446,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="eq_metal">Metal</string>
     <string name="eq_pop">Pop</string>
     <string name="eq_preset_create">Vytvoriť</string>
-    <string name="eq_preset_format">Predvoľba %d</string>
     <string name="eq_preset_hint">Zadajte názov predvoľby</string>
     <string name="eq_preset_rename">Premenovať</string>
     <string name="eq_preset_select">Zvoliť predvoľbu</string>
@@ -515,7 +507,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="feed_back">Spätná väzba</string>
     <string name="file_not_found">Súbor neexistuje</string>
     <string name="filter_by_duration">Filtrovať podľa dĺžky</string>
-    <string name="filter_by_duration_format">%2$dm %5$2ds</string>
     <string name="filter_by_duration_max">%d min</string>
     <string name="filter_by_duration_min">%d s</string>
     <string name="filter_by_duration_prefix">"Minimálna dĺžka: "</string>
@@ -537,8 +528,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="followed">Sledovanie</string>
     <string name="force_touch_audio_picker">Rozpoznať skladbu</string>
     <string name="force_touch_play_local_music_random">Náhodný výber lokálnych piesní</string>
-    <string name="format_not_support">Formát nie je podporovaný</string>
-    <string name="format_unsupported_or_corrupted">Tento formát nie je podporovaný alebo je súbor poškodený</string>
     <string name="fragment_more">Viac</string>
     <string name="fragment_title_artist">Umelec</string>
     <string name="fragment_title_artist_album">Album</string>
@@ -548,7 +537,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="fragment_title_recommend">Odporúčané</string>
     <string name="garbage_cleanup">Čistič</string>
     <string name="gcm_fallback_notification_channel_label">Rôzne</string>
-    <string name="global_search_app_name">Hudba</string>
     <string name="global_search_description_entry">Užívajte si hudbu</string>
     <string name="global_search_description_hot">Aktualizovať týždenne</string>
     <string name="global_search_description_radar">Rozpoznať dobré piesne</string>
@@ -706,7 +694,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="miuishare_account_login_ok">Prihlásiť sa</string>
     <string name="miuishare_account_need_activate">Zdieľanie Weibo vyžaduje, aby bol Váš Weibo účet prepojený s Xiaomi účtom, čo momentálne nie je aktívne. Želáte si aktivovať teraz?</string>
     <string name="miuishare_account_need_login">Zdieľanie Weibo vyžaduje, aby bol Váš Weibo účet prepojený s Xiaomi účtom, ktorý je prihlásený. Prihlásiť sa na zdieľanie teraz?</string>
-    <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_no_network">Žiadna sieť na zdieľanie</string>
     <string name="miuishare_publish">Poslať</string>
     <string name="miuishare_share_done">Obsah na zdieľanie bol poslaný.</string>
@@ -922,7 +909,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="pref_download_settings_title">Limit veľkosti sťahovania</string>
     <string name="pref_summary_any_bytes_popup">Vždy pri sťahovaní súborov počkať na pripojenie k sieti Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Zobraziť automatické okno s upozornením pri sťahovaní súboru pomocou mobilných dát</string>
-    <string name="pref_summary_max_bytes_limit_format">Počkať na pripojenie k sieti Wi-Fi, pokiaľ je súbor väčší ako %s</string>
     <string name="pref_summary_no_limit_popup">Neobmedzený</string>
     <string name="pref_title_enable_max_bytes_popup">Zobraziť informácie týkajúce sa spotreby dát</string>
     <string name="preferences_title">Nastavenia</string>
@@ -1062,7 +1048,6 @@ is poskytuje predovšetkým spoločnosť Ultimate Inc."</string>
     <string name="set_as_ring">Nastaviť ako zvonenie</string>
     <string name="set_id3_failed">Nastavenie skladby zlyhalo</string>
     <string name="set_id3_not_have_read_or_write_permission">Nemáte povolenie upraviť tento súbor</string>
-    <string name="set_id3_not_support_format">Tento formát súboru nie je možné upraviť</string>
     <string name="set_id3_successful">Informácie o skladbe uložené</string>
     <string name="set_ringtones_failed">Nastavenie zvonenia zlyhalo.</string>
     <string name="set_ringtones_successful">%s nastavené ako zvonenie.</string>

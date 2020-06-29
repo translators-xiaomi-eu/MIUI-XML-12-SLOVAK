@@ -24,7 +24,6 @@
     <string name="backup_theme_dialog_message">Zálohovanie aktuálnej témy</string>
     <string name="backup_theme_dialog_ok">Zálohovanie</string>
     <string name="backup_theme_fail_trial_rights_message">Témy na skúšku nie je možné zálohovať</string>
-    <string name="backup_theme_name">Moje zálohy</string>
     <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, čakajte prosím...</string>
     <string name="backup_theme_success_message">Téma úspešne zálohovaná</string>
     <string name="both_all_apply_failured">Nie je možné nastaviť tapetu</string>

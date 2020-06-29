@@ -2570,7 +2570,6 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="lights_title">LED</string>
     <string name="line_breaking_summary">Optimalizovať zalamovanie textu</string>
     <string name="line_breaking_title">Optimalizácia odseku textu</string>
-    <string name="link_speed_label">Rýchlosť:</string>
     <string name="link_turbo_prompt">štatistiky na tejto stránke zobrazujú len množstvo dát využitých pre zrýchlenie Wi-Fi pripojenia.</string>
     <string name="link_turbo_settings_all_app_display_loading">Načítavanie...</string>
     <string name="link_turbo_settings_all_app_reach_max">Môžete vybrať maximálne 15 aplikácií</string>
@@ -3745,10 +3744,6 @@ Vyberte váš operačný systém:"</string>
     <string name="power_cell">Telefón v pohotovostnom režime</string>
     <string name="power_center">Výkon</string>
     <string name="power_charge_remaining">%1$s do nabitia</string>
-    <string name="power_charging_duration">%1$d %% – úplné nabitie batérie o %2$s</string>
-    <string name="power_charging_duration_ac">%1$d %% – úplné nabitie z el. zásuvky o %2$s</string>
-    <string name="power_charging_duration_usb">%1$d %% – úplné nabitie pomocou kábla USB o %2$s</string>
-    <string name="power_charging_duration_wireless">%1$d %% – úplné bezdrôtové nabitie o %2$s</string>
     <string name="power_checker">Kontrola spotreby</string>
     <string name="power_discharge_remaining">Zostáva %1$s</string>
     <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
@@ -5146,7 +5141,6 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="suggestion_for_phone_recycled">Pridať iné telefónne číslo</string>
     <string name="sum_carrier_select">Vybrať sieťového operátora</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_font_size_v2">Upraviť veľkosť textu, obrázkov a ikon</string>
     <string name="summary_range_verbal_combination">Od %1$s do %2$s</string>
     <string name="sunlight_mode">Režim denného svetla</string>
     <string name="sunlight_mode_summary">Prispôsobiť jas priamemu slnku ak je automatický jas vypnutý</string>
