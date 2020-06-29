@@ -35,9 +35,8 @@
     <string name="content_description_start">Spustiť</string>
     <string name="content_introduction">Centrum obsahu agreguje obsah a služby z rôznych kanálov. Tu môžete čítať články, sledovať videá, vzhliadať najnovšie zaujímavosti a dostávať odporúčaný obsah.</string>
     <string name="continue_to_enable_accessibility">Ak chcete povoliť funkcie dostupnosti, podržte stlačené dva prsty.</string>
-    <string name="data_traffic_enable_dialog_title">Ak nie ste pripojený na Wi-Fi, vaše zariadenie použije mobilné dáta.</string>
-    <string name="desc_extra_fingerprint"/>
-    <string name="desc_extra_international_fingerprint"/>
+    <string name="desc_extra_fingerprint" />
+    <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
     <string name="desc_international_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa do aplikácii alebo služieb.</string>
     <string name="diagnose_report">Odosielať diagnostické údaje pre lokalizáciu a analýzu systémových problémov a zlepšenie užívateľských skúseností. Také údaje môžu obsahovať osobné informácie (napr. IP adresu, polohu, atď.)</string>
@@ -237,4 +236,5 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="voice_assist_title">Prebudenie hlasom</string>
     <string name="welcome">Vitajte</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+  <string name="data_traffic_enable_dialog_title">Ak nie ste pripojený na Wi-Fi, vaše zariadenie použije mobilné dáta.</string>
 </resources>

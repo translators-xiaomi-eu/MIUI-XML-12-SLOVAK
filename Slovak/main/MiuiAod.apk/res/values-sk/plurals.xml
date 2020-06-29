@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sh %2$s"</item>
@@ -11,5 +11,5 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">Upozornení: %d</item>
         <item quantity="one">Upozornení: %d</item>
-    </plurals>
+    </plurals>	
 </resources>
