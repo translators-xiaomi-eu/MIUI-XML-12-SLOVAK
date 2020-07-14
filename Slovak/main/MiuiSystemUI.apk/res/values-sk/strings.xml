@@ -1453,7 +1453,6 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="plugins">Doplnky</string>
     <string name="pointer_location">Umiestnenie kurzora</string>
     <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-    <string name="power_charging_duration">^1 – ^2 do úplného nabitia</string>
     <string name="power_discharging_duration">^1 – približný zostávajúci čas: ^2</string>
     <string name="power_discharging_duration_enhanced">^1 – zostáva približne ^2 v závislosti od intenzity využitia</string>
     <string name="power_discharging_duration_short">^1 – zostávajúci čas: ^2</string>
